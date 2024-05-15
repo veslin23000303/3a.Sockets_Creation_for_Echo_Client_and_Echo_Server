@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+## NAME:VESLIN ANISH A
+## REGISTER NO:212223240175
 # AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -36,11 +38,13 @@ while True:
 
 ### CLIENT SIDE:
 
-![alt text](image.png)
+![Screenshot 2024-05-15 101752](https://github.com/veslin23000303/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/151148539/397c84da-353d-404a-91da-079ed0ddb755)
+
 
 ### SERVER SIDE:
 
-![alt text](image-1.png)
+![Screenshot 2024-05-15 101808](https://github.com/veslin23000303/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/151148539/1ad46dc4-f248-4ad7-83ed-b4a2d2530ef9)
+
 
 ## RESULT:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
